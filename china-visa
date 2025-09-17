@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Confirmation Form for Study in China</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.5;
+        }
+        h1, h2 {
+            text-align: center;
+            color: #333;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        td, th {
+            border: 1px solid #000;
+            padding: 10px;
+            text-align: left;
+        }
+        .section {
+            margin: 15px 0;
+        }
+        .notes {
+            font-size: 14px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>外国留学人员来华确认表</h1>
+    <h2>Confirmation Form for Study in China</h2>
+    <p>中华人民共和国教育部印制 Printed by the Ministry of Education (NRC) of PRC</p>
+
+    <table>
+        <tr>
+            <td>No.</td>
+            <td>124012049</td>
+            <td>接受院校/Host Institution:</td>
+            <td>山东工商学院</td>
+        </tr>
+        <tr>
+            <td>姓名/Name</td>
+            <td>姓/Family Name: ASFA</td>
+            <td>名/Given Names: ARSHAD</td>
+        </tr>
+        <tr>
+            <td>国籍/Nationality:</td>
+            <td>巴基斯坦</td>
+            <td>护照号码/Passport No.: HM1916732</td>
+        </tr>
+        <tr>
+            <td>性别/Sex:</td>
+            <td>女</td>
+            <td>婚否/Marital Status: 未婚</td>
+        </tr>
+        <tr>
+            <td>出生日期/Date of Birth:</td>
+            <td>1994年09月19日</td>
+            <td>出生地点/Place of Birth: 巴基斯坦 FAISLABAD</td>
+        </tr>
+        <tr>
+            <td colspan="4">家庭地址和电话/Home Address & Tel.: RAJY WALA HOUSE NO 147-P SANFARAZ COLONY FAISLABAD PAKISTAN 923070508764</td>
+        </tr>
+    </table>
+
+    <div class="section">
+        <strong>学生身份/Student Status:</strong> 本科生 Undergraduate<br>
+        <strong>注册截止日期/Deadline for Registration:</strong> 2025年09月19日
+    </div>
+
+    <div class="section">
+        <strong>推荐单位和电话/Reference & Tel.:</strong> 沈阳迈德教育咨询有限公司 13031638038
+    </div>
+
+    <div class="section">
+        <strong>在华事务担保人和电话/Guarantor in China & Tel.:</strong> 张雅军 0535-6952046
+    </div>
+
+    <div class="section">
+        <strong>经费来源/Financial Funding:</strong> 奖学金/Scholarship<br>
+        <strong>经济资助提供机构/Financial support will be provided by:</strong> 山东工商学院
+    </div>
+
+    <div class="notes">
+        <strong>备注/Notes:</strong><br>
+        1. 此表仅限于申请来华学习的外国留学人员使用。<br>
+        2. 请持本表向中国（领）馆申请来华学习签证。<br>
+        3. 请持本表到接受院校报到。<br>
+        <br>
+        <strong>English:</strong><br>
+        1. This form is for foreign students applying to study in China.<br>
+        2. Please present this form to apply for a student entry visa at the Chinese Embassy or Consulate General.<br>
+        3. Please present this form to register at the host institution.
+    </div>
+</body>
+</html>
